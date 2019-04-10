@@ -20,6 +20,7 @@ public class Hotel_System extends javax.swing.JFrame {
     public Hotel_System() {
         initComponents();
         int n; 
+        int a; 
     }
 
     /**
